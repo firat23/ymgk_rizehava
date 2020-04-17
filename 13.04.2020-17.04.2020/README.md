@@ -1,1 +1,1 @@
-II Aşama tamamlanacak sonuçlar raporlanacak.
+II. Aşama tamamlanacak sonuçlar raporlanacak.
