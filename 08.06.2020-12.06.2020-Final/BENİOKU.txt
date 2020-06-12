@@ -1,0 +1,12 @@
+Projenin sağlıklı bir şekilde çalışabilmesi için;
+
+* Matplotlib
+* Pandas
+* Numpy
+* Sys
+* Os
+* Sklearn
+* PyQt5
+* Tensorflow
+
+kütüphanelerinin kurulu olması lazım.
