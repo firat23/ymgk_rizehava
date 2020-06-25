@@ -10,3 +10,5 @@ Projenin sağlıklı bir şekilde çalışabilmesi için;
 * Tensorflow
 
 kütüphanelerinin kurulu olması lazım.
+
+Daha sonra "rize3.py" dosyası çalıştırılarak projeye giriş yapılabilir.
